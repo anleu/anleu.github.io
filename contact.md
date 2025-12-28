@@ -3,6 +3,10 @@ layout: default
 title: "Contact"
 ---
 
+[Home](/) · [Music](/music) · [Plugins](/plugins) · [Projects](/projects) · [Contact](/contact)
+
+---
+
 # Contact
 
 Kontaktinformationen und Social Links.

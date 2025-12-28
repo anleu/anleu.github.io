@@ -1,2 +1,21 @@
-title: anleu.github.io
+title: Andy Leuckert
+description: Audio · Embedded · Creative Technology
 theme: minima
+url: "https://anleu.github.io"
+baseurl: ""
+
+# Minima settings
+author:
+  name: Andy Leuckert
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

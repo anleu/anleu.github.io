@@ -15,4 +15,4 @@ and make music in a post-rock / electronic context.
 - Embedded audio experiments
 - Creative technology & interfaces
 
-[Music](music.md) · [Plugins](plugins.md) · [Projects](projects.md)
+[Music](/music) · [Plugins](/plugins) · [Projects](/projects) · [Contact](/contact)
