@@ -3,6 +3,7 @@ description: Audio · Embedded · Creative Technology
 theme: minima
 url: "https://anleu.github.io"
 baseurl: ""
+logo: /assets/images/091Logo_black.png
 
 # Header Navigation - Reihenfolge der Seiten im Menü
 header_pages:
