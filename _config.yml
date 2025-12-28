@@ -4,9 +4,17 @@ theme: minima
 url: "https://anleu.github.io"
 baseurl: ""
 
+# Author settings (wird im Footer und Feeds verwendet)
+author: Andy Leuckert
+
 # Minima settings
-author:
-  name: Andy Leuckert
+minima:
+  skin: auto
+  social_links:
+    # Hier können Social Media Links hinzugefügt werden:
+    # github: anleu
+    # twitter: username
+    # linkedin: username
 
 # Build settings
 markdown: kramdown
