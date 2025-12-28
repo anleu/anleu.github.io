@@ -4,8 +4,13 @@ theme: minima
 url: "https://anleu.github.io"
 baseurl: ""
 
-# Author settings (wird im Footer und Feeds verwendet)
-author: Andy Leuckert
+# Header Navigation - Reihenfolge der Seiten im Menü
+header_pages:
+  - index.md
+  - music.md
+  - plugins.md
+  - projects.md
+  - contact.md
 
 # Minima settings
 minima:
